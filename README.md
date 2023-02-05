@@ -61,8 +61,6 @@ pip install hostcheck
 
 ```
 
-## Maybe will be in new versions
-
- - dns checker 
+## Maybe will be in new versions 
  - udp checker
 
